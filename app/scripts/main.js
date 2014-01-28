@@ -1,6 +1,6 @@
 console.log('Sup Mason');
 
-
+//first var
 
 var actionFigure = [
 	{name: 'Buzz'},
